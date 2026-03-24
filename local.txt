@@ -1,3 +1,4 @@
 We have created a local repository and this is a file in it
 Now we will commit changes into the new branch that is "feature1"
 we are making one more change
+we are nested to another branch that is "feature2"
