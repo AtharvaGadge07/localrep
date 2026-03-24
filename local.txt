@@ -1,1 +1,2 @@
 We have created a local repository and this is a file in it
+Now we will commit changes into the new branch
